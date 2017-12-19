@@ -16,3 +16,7 @@ The three algorithms are described in [2], and the notation used in the code is 
 
 The script `SimulateForFixedTime.py` may be used to estimate the running time of the perfect sampler in a well-specified model, under a fixed setting of the parameters.
 
+## Dataset
+
+The contingency table used as an example in Section 4 of [2] is made available as `example.csv`.
+
