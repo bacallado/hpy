@@ -10,7 +10,7 @@ The three algorithms are described in [2], and the notation used in the code is 
 
 [1] Glynn, P. W. and C.-h. Rhee (2014). Exact estimation for markov chain equilibrium expectations. *Journal of Applied Probability* 51(A), 377–389.
 
-[2] Bacallado, S., Power, S., Favaro, S., and Trippa, L. (2014). Perfect Sampling of the Posterior in the Hierarchical Pitman–Yor Process. 
+[2] Bacallado, S., Power, S., Favaro, S., and Trippa, L. (2017). Perfect Sampling of the Posterior in the Hierarchical Pitman–Yor Process. 
 
 ## Example script
 
